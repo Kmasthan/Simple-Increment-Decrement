@@ -1,0 +1,33 @@
+
+.Main
+{
+    border: 2px solid red;
+    background-color: aquamarine;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    padding: 4%;
+}
+h1
+{
+   text-align: center;
+   background-color: cornsilk;
+   font-style: italic;
+}
+button
+{
+    padding: 2%;
+    border-radius: 20%;
+}
+#_1Btn
+{
+    background-color: green;
+}
+#_2Btn
+{
+    background-color: white;
+}
+#_3Btn
+{
+    background-color: red;
+}
